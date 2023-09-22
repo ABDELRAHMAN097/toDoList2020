@@ -1,7 +1,6 @@
 body{
     text-align: center;
-    background-image: url(circle-scatter-haikei.png);
-    background-repeat: repeat;
+    background: url(circle-scatter-haikei.png) repeat;
     background-size: cover;
     object-fit: cover;
 }
