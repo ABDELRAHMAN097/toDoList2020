@@ -1,9 +1,9 @@
 body{
     text-align: center;
     background-image: url(circle-scatter-haikei.png);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
-    object-fit: contain;
+    object-fit: cover;
 }
 h1{
     color: white;
