@@ -3,6 +3,7 @@ body{
     background: url(circle-scatter-haikei.png) repeat;
     background-size: cover;
     object-fit: cover;
+    background-position: fixed;
 }
 h1{
     color: white;
