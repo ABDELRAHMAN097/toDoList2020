@@ -1,5 +1,5 @@
-var contaner = document.querySelector("[contaner]");
-var btn = document.querySelector([btn]);
+var contaner = document.querySelector(".contaner");
+var btn = document.querySelector(".btn");
 function boomContent() {
   contaner.classList.toggle("show");
 }
