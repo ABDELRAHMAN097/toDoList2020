@@ -27,7 +27,5 @@ blusButton.addEventListener("click", intermsg);
 document.querySelector(".inputField").oninput = function () {
   console.log(this.value);
   window.sessionStorage.setItem("inputField", inputField.value);
-  window.localStorage.setItem("paragraph", contaner.innerHTML)
 };
 inputField.value = window.sessionStorage.getItem("inputField");
-contaner.innerHTML= window.localStorage.getItem("contaner")
